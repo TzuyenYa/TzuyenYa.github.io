@@ -1,0 +1,22 @@
+body {
+    position: relative; 
+    background-image:url('./material/leaf.jpeg'); 
+    background-size:contain;  
+}
+#title{
+    text-align: center;
+    background-color: darkgray;
+    width: 100%;
+}
+#title h1{    
+    background-color: darkgray;
+    line-height: 150px;
+}
+ul.nav-pills {
+    top: 150px;
+    position: fixed;
+}
+
+#section3 li:hover{
+    background-color: deepskyblue;
+}
